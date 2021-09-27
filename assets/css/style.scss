@@ -2,8 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
+body {
+    background-color: darkslategrey;
+    color: azure;
+    font-size: 1.1em;
+}
+h1 {
+    color: coral;
+}
