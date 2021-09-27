@@ -1,4 +1,7 @@
-# Welcome to REACT github Pages
+# Welcome to REACT github Pages (h1)
+## This is header 2 (h2)
+### h3 here
+
 
 You can use the [editor on GitHub](https://github.com/chemREACT/chemREACT.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
