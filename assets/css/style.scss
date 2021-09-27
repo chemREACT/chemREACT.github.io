@@ -2,15 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-.markdown-body h1{
-  color: #969896;
-}
-.markdown-body h4{
-  color: #969896;
-}
-.markdown-body h3{
-  color: #969896;
-}
-.markdown-body h5{
-  color: #969896;
+.page-header{
+color:#ffff;
+background-color:#A067AB;
+background-image:linear-gradient(120deg,#5073B8,#A067AB);
 }
