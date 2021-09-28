@@ -12,27 +12,30 @@ enzyme catalysed reactions.
 
 ## What it does
 <ul>
-<li> Automatic calculation of relative energies and easy inclusion of typical correctional terms:</li>
+<li> Automatic calculation of relative energies and easy inclusion of typical correctional terms:
     <ul>
     <li> Solvation </li>
     <li> Big basis </li>
     <li> Frequencies / thermal corrections </li>
     </ul>
+</li>
 <li> Generation of enzyme cluster models </li>
 <li> Store all related project files with respect to where they belong in a reaction pathway (states) </li>
 <li> Handling of several filetypes (pdb, xyz, com, out, inp) in a filetype-independent way </li>
-<li> Plotting functionalities to visualize:</li>
+<li> Plotting functionalities to visualize:
     <ul>
     <li> Energy diagrams </li>
     <li> SCF convergence </li>
     <li> Frequencies / IR spectrum </li>
     </ul>
-<li> Pymol connectivity for molecular visualization of all project files </li>
+</li>
+<li> Pymol connectivity for molecular visualization of all project files 
     <ul>
     <li> Frequency animation </li>
     <li> SCF geometry optimization visualisation </li>
     <li> Enzyme cluster model generation  </li>
     </ul>
+</li>
 <li> Easy setup of new input files for DFT/QM calculations </li>
 
 
