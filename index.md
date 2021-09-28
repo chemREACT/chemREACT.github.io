@@ -6,5 +6,6 @@ Relative Energies Automated Calculation inTerface
 </p>
 
 # REACT
-REACT is developed by PhD Geir Villy Isaksen and MSc Bente Sirin Barge. The main vision behind is to deliver a compact, 
-intuitive & efficient software for energy calculations taylor made for enzyme catalysed reactions.  
+REACT is developed by PhD Geir Villy Isaksen and MSc Bente Sirin Barge from UiT The Arctic University of Norway. The 
+main vision behind is to deliver a compact, intuitive & efficient software for energy calculations taylor made for 
+enzyme catalysed reactions.  
