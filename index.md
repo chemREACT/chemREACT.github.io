@@ -1,9 +1,10 @@
-# ![REACT logo](figures/REACT_logo.png)
+<!-- # ![REACT logo](figures/REACT_logo.png)
 <p align="center" style="color:#3c3c3c">
 <i>
 Relative Energies Automated Calculation inTerface
 </i>
-</p>
+</p> -->
+
 
 # REACT
 REACT is developed by [PhD Geir Villy Isaksen](about.md/#PhD-Geir-Villy-Isaksen) and [MSc Bente Sirin Barge](about.md/#MSc-Bente-Sirin-Barge) 
