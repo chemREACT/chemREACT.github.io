@@ -6,11 +6,15 @@ Relative Energies Automated Calculation inTerface
 </p> -->
 
 
-# REACT
+# Big projects & large systems - no problem! 
+![REACT main](figures/react_pymol_main.png)
+
 REACT is developed by [PhD Geir Villy Isaksen](about.md/#PhD-Geir-Villy-Isaksen) and [MSc Bente Sirin Barge](about.md/#MSc-Bente-Sirin-Barge) 
 from UiT The Arctic University of Norway. The main vision behind is to deliver a compact, intuitive & efficient software 
-for energy calculations taylor made for enzyme catalysed reactions. 
-![REACT main](figures/react_pymol_main.png)
+for energy calculations taylor made for enzyme catalysed reactions.
+
+![Cluster generation](figures/cluster_model_illustration.png)
+
 ## What it does
 <ul>
 <li> Automatic calculation of relative energies and easy inclusion of typical correctional terms:
