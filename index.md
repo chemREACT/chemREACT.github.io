@@ -6,9 +6,7 @@ Relative Energies Automated Calculation inTerface
 </p> -->
 
 
-# Big projects & large systems - no problem! 
-![REACT main](figures/react_pymol_main.png)
-
+# REACT - making computational chemistry easy 
 REACT is developed by [PhD Geir Villy Isaksen](about.md/#PhD-Geir-Villy-Isaksen) and [MSc Bente Sirin Barge](about.md/#MSc-Bente-Sirin-Barge) 
 from UiT The Arctic University of Norway. The main vision behind is to deliver a compact, intuitive & efficient software 
 for energy calculations taylor made for enzyme catalysed reactions.
@@ -50,3 +48,12 @@ for energy calculations taylor made for enzyme catalysed reactions.
 <ul>
 <li> The actual QM/DFT calculations. </li>
 </ul>
+There are several excellent software packages on the market for doing hard-core quantum mechanics (QM) and density
+functional theory (DFT) calculations. Our goal has been to design an efficient project tool that automates many of the 
+tedious tasks required to both set up and post-analyse QM/DFT calculations. 
+
+## Supported DFT / QM software packages
+Currently, we have only implemented input/output support for [Gaussian](https://gaussian.com). REACT is however designed
+with the purpose of easy support implementation for other QM/DFT engines. 
+
+## Screenshots
