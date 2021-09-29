@@ -57,3 +57,21 @@ Currently, we have only implemented input/output support for [Gaussian](https://
 with the purpose of easy support implementation for other QM/DFT engines. 
 
 ## Screenshots
+### REACT main window
+![REACT main](figures/mainREACT.png)
+
+### All project files and states synced to Pymol
+![REACT pymol](figures/react_pymol_main.png)
+
+### Creating run-ready cluster models
+![cluster tool](figures/cluster_window.png)
+
+### Automatic detection atoms to freeze (cluster)
+![calc setup](figures/autofreeze.png)
+
+### Efficient analysis tool
+![analyse_calc](figures/analyse_window.png)
+
+
+### Energy diagram custom plotting tool 
+![plotter](figures/plotter.png)
