@@ -7,23 +7,18 @@ body {
     color: azure;
     font-size: 1.1em;
 }
-h1 {
-    color: #8f1777;
-}
-h2 {
-    color: #8f1777;
-}
-h3 {
-    color: #6272a4;
+h1, h2, h3 {
+    color:#8e2b7a;
+    text-shadow: 3px 2px rgba(0, 0, 0, 1);
 }
 a {
-    color: #d57533;
+    color: #b13b9a;
     font-weight: 400;
     text-decoration:none
 }
 
 a:hover {
-    color:#ff9700
+    color:#c911a5
 }
 
 #header nav ul li a {
@@ -45,6 +40,11 @@ a:hover {
     background-color: #659e10;
     border: 2px solid rgba(241, 241, 241, 0.2);
     box-shadow:inset 0px 1px 1px rgba(0, 0, 0, 0.2), 0px 1px 0px transparent
+}
+section {
+    color: #dddddd;
+    font-size: 14px;
+    padding: 0px 0px 0px 0px;
 }
 /*#title {
   display: none;
