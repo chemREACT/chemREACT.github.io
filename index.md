@@ -58,7 +58,7 @@ with the purpose of easy support implementation for other QM/DFT engines.
 
 ## Screenshots
 ### REACT main window
-![REACT main](figures/mainREACT.png)
+![REACT main](figures/mainREACT2.png)
 
 ### All project files and states synced to Pymol
 ![REACT pymol](figures/react_pymol_main.png)
