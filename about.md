@@ -1,4 +1,6 @@
-# A molecular sciences software package 
+# About
+
+## The software
 REACT is a modern molecular sciences software package primarily aimed at relative energy calculations with quantum 
 mechanical (QM) / density functional theory (DFT). The software offers its users a new way of managing computational
 projects in a structured manner with great flexibility and efficiency. REACT is designed in an intuitive way to keep 
