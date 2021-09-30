@@ -69,6 +69,9 @@ with the purpose of easy support implementation for other QM/DFT engines.
 ### Automatic detection atoms to freeze (cluster)
 ![calc setup](figures/autofreeze.png)
 
+### Familiar convergence plots
+![scf_convergence](figures/scf_plot.png)
+
 ### Efficient analysis tool
 ![analyse_calc](figures/analyse_window.png)
 
